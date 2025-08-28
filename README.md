@@ -22,24 +22,31 @@
 
 # 작품 실행 장면
 <img width="434" height="353" alt="image" src="https://github.com/user-attachments/assets/66596730-a1e9-43d0-aa30-9f9203c5fb83" />
+<br />
 Medical Data Analysis system(MIDAS) 메인 화면 
 <br />
 <img width="426" height="205" alt="image" src="https://github.com/user-attachments/assets/8d2cbc92-b6c1-488a-a823-ceb0aad6b956" />
+<br />
 메인 화면의 상단바에서 About → Information 클릭 시 머신러닝 알고리즘에 사용되는 데이터와 XGBoost 모델의 성능 정보를 알려주는 페이지
 <br />
 <img width="407" height="323" alt="image" src="https://github.com/user-attachments/assets/d944f740-f2ab-4fdf-b4e4-f2c6b7f42657" />
+<br />
 메인 화면의 상단바에서 About → Tutorial 클릭 시 MIDAS 웹 페이지의 사용법을 알려주는 페이지 
 <br />
 <img width="422" height="277" alt="image" src="https://github.com/user-attachments/assets/05d3a40b-5b4c-4a79-a35f-f1907ee7376f" />
+<br />
 메인 화면의 상단바에서 Members: 프로젝트에 참여한 팀원 소개 페이지
 <br />
 <img width="392" height="389" alt="image" src="https://github.com/user-attachments/assets/909208cf-fda1-4e44-a9d4-8de91b916748" />
+<br />
 메인 화면의 상단바에서 About -> Predict :머신러닝 알고리즘을 통해 만들어진 질환 예측 시스템이 구현된 시스템
 <br />
 <img width="340" height="536" alt="image" src="https://github.com/user-attachments/assets/0c648679-67c2-48e3-b08e-5a6be31e5786" />
+<br />
 메인 화면의 상단바에서 About -> Predict :한 명의 대한 검사 정보와 약물 복용 여부를 입력 후 Predict 버튼을 눌러 예측한 페이지
 <br />
 <img width="426" height="633" alt="image" src="https://github.com/user-attachments/assets/792beb3b-5197-4c44-a5e0-0a71a78b41fe" />
+<br />
 메인 화면의 상단바에서 About -> Predict :두 명 이상에 대한 파일 정보를 업로드 한 후 Predict 버튼 클릭하여 예측된 화면을 띄워주는 페이지
 <br />
 
