@@ -1,4 +1,4 @@
-# 인공지능을 활용한 표준 의료 빅데이터 기반 맞춤형 정밀 치료 지원 시스템 개발
+<img width="434" height="353" alt="image" src="https://github.com/user-attachments/assets/e9e286f9-75c7-4d8c-b3ab-04dd10dab580" /># 인공지능을 활용한 표준 의료 빅데이터 기반 맞춤형 정밀 치료 지원 시스템 개발
 1. 배경 : 병원 간 의료 데이터의 비표준화와 그 형식의 차이로 인한 질병 진단의 불편함이 존재
 2. 목적 : 당뇨병 맞춤형 정밀 치료 지원 시스템 개발
 3. 사용한 기술(언어) : Python, 머신러닝 알고리즘(XGboost), HTML, CSS, JavaScript
@@ -18,4 +18,9 @@
 # 프로젝트를 통해 얻어지는 최종 결과물 
 1. 당뇨병 환자의 의료 정보를 활용하여 당뇨병콩팥병증을 예측하는 인공지능 모델
 2. 모델을 통해 예측된 결과를 시각적으로 사용자에게 알려주는 웹 사이트
+
+
+# 작품 실행 장면
+<img width="434" height="353" alt="image" src="https://github.com/user-attachments/assets/66596730-a1e9-43d0-aa30-9f9203c5fb83" />
+
 
