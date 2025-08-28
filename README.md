@@ -22,5 +22,9 @@
 
 # 작품 실행 장면
 <img width="434" height="353" alt="image" src="https://github.com/user-attachments/assets/66596730-a1e9-43d0-aa30-9f9203c5fb83" />
+Medical Data Analysis system 메인 화면 
+<img width="426" height="205" alt="image" src="https://github.com/user-attachments/assets/8d2cbc92-b6c1-488a-a823-ceb0aad6b956" />
+메인 화면의 상단바에서 About → Information 클릭 시
+머신러닝 알고리즘에 사용되는 데이터와 XGBoost 모델의 성능 정보를 알려주는 페이지
 
 
